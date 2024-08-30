@@ -197,3 +197,7 @@ The following table contains reading/video links provided in each module of the 
   </tr>
 
 </table>
+
+## Aditional resources
+
+* <a href="https://www.oreilly.com/library/view/data-science-on/9781098118945/">Data Science on the Google Cloud Platform, 2nd Edition</a>
